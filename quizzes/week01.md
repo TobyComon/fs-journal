@@ -21,7 +21,7 @@ Make directory
 <!-- enter you answer in the space below -->
 
 ```
-
+defines the language of the document as HTML
 ```
 
 **4.** What does `HTML` stand for?
@@ -29,7 +29,7 @@ Make directory
 <!-- enter you answer in the space below -->
 
 ```
-
+Hyper Text Markup Language
 ```
 
 **5.** What Does `CSS` stand for?
@@ -37,7 +37,7 @@ Make directory
 <!-- enter you answer in the space below -->
 
 ```
-
+Cascading Style Sheets
 ```
 
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
@@ -51,7 +51,7 @@ h1.main-title {
 <!-- enter you answer in the space below -->
 
 ```
-
+Selector, Property, Value
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
@@ -59,7 +59,7 @@ h1.main-title {
 <!-- enter you answer in the space below -->
 
 ```
-
+Font Weight
 ```
 
 **8.** In what tag does the majority of your code belong?
@@ -67,7 +67,7 @@ h1.main-title {
 <!-- enter you answer in the space below -->
 
 ```
-
+<main> or <body>
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
@@ -83,7 +83,7 @@ h1.main-title {
 <!-- enter you answer in the space below -->
 
 ```
-
+The Flex property sets the flexible length on flexible items
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
@@ -91,5 +91,5 @@ h1.main-title {
 <!-- enter you answer in the space below -->
 
 ```
-
+Margin, Border, Padding
 ```
